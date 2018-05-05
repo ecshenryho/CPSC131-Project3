@@ -1,0 +1,321 @@
+A 1, 3
+All 2
+Application 1
+Be 1
+Class 1
+Classes 2
+Close 2
+Create 2
+CreateIndex 2
+Do 2
+Document 1
+DocumentFile 2
+DocumentIndex 1, 2
+Enclosed 2
+Files 2
+First 2
+For 2
+Functions 2
+GetLine 2
+GetPageNumber 2
+GetWord 2
+GitHub 2
+Here 1
+If 2
+Implementation 2
+Index 1
+It 1, 2
+Its 1
+Last 1
+Library 1, 2
+Load 2
+LoadExclusions 2
+Open 2
+Program 2
+Project 1
+Read 2
+References 3
+Remember 2
+Resources 2
+Return 1, 2
+SL 1, 2, 3
+STL 1
+Standard 1, 2
+Test 2
+The 1, 2
+These 2, 3
+They 2
+This 1, 2
+Warning 1
+Word 2
+Words 2
+Write 2
+You 2, 3
+Your 1
+about 1
+above 2
+accommodates 2
+add 2
+after 1, 2
+against 2
+allowable 2
+allowed 2
+an 1, 2
+anything 2
+apostrophe 2
+appear 2
+appears 2
+application 1
+appropriate 2
+are 1, 2
+as 1, 2
+associated 2
+at 3
+because 2
+become 1
+been 2
+begin 2
+belong 2
+between 2
+binary 1
+brief 3
+by 1, 2
+call 2
+can 2, 3
+careful 1
+cause 1
+change 2
+character 2
+characters 2
+check 2
+checked 1
+class 1, 2
+classes 1, 2, 3
+closing 2
+code 2
+collection 2
+colon 2
+combinations 2
+comma 1, 2
+compares 2
+complete 1, 2
+completely 2
+conform 1
+constraints 2
+contain 2
+container 1, 3
+containers 2
+controlled 2
+corresponding 2
+created 1, 2
+creates 1
+current 2
+data 2
+declaration 2
+declarations 2
+definition 2
+definitions 2
+describe 3
+description 3
+design 1
+detection 2
+differences 2
+different 1, 2
+digits 2
+disallowed 2
+do 2
+done 1
+double 2
+download 2
+during 2
+each 1, 2
+editors 2
+either 2
+element 2
+elements 2
+empty 1, 2
+enclose 2
+end 2
+endings 2
+ends 1
+example 1, 2
+exclamation 2
+exclusion 2
+existing 1
+expects 1
+extension 3
+fail 1
+familiar 1
+feed 2
+files 1, 2, 3
+fill 1
+filled 2
+final 2
+find 2, 3
+followed 2
+following 1
+format 1
+found 3
+from 1, 2
+function 2
+functions 1, 2, 3
+given 1, 2
+goal 1
+handles 2
+have 1, 2
+having 2
+hold 2
+how 3
+hyphen 2
+if 2
+illegal 2
+illustration 1
+implementation 1, 2
+implements 2
+including 2
+indicated 2
+information 2
+input 2
+insert 2, 3
+interest 3
+interesting 3
+it 2
+its 2
+just 2
+key 2
+large 2
+legal 2
+like 2
+line 1, 2
+lines 1, 2
+list 1, 2
+map 1, 2, 3
+mark 2
+marks 2
+matching 2
+may 2, 3
+member 1, 2
+members 1
+mentioned 2
+modify 2
+more 2, 3
+multipage 2
+must 1, 2
+name 2
+necessary 2
+needed 2
+next 2
+nodes 2
+nonconforming 1
+nonmember 2
+number 2
+numbers 1, 2
+off 2
+on 2
+once 2
+one 1, 2
+only 2
+opening 2
+or 2, 3
+order 2
+other 2
+out 2
+output 1
+over 2
+page 1, 2
+pages 1, 2
+pair 3
+pairs 2
+paragraph 1
+parentheses 2
+part 2
+partially 2
+per 2
+period 2
+platforms 2
+point 2
+posted 2, 3
+pressing 1
+previous 1
+primarily 2
+problem 1
+processors 2
+program 1, 2
+project 1, 2
+projects 1
+provide 1
+provided 2
+punctuation 2
+question 2
+quotation 2
+relevant 3
+repeated 2
+required 2
+requires 1
+s 2
+sample 1, 2
+samples 2
+search 1
+semicolon 2
+separated 1, 2
+set 1, 2, 3
+should 2
+simply 2
+single 1, 2
+size 3
+skeleton 1
+skeletons 2
+skipping 2
+small 2
+solve 1
+some 2
+sorted 2
+space 1
+spaces 2
+string 2
+strip 2
+stripped 2
+stripping 2
+structure 2
+subject 2
+submission 2
+submit 2
+successive 1
+such 2
+summary 2
+symbols 2
+tabs 2
+takes 2
+ten 2
+test 1, 2
+tested 2
+testing 2
+text 1, 2
+than 2
+their 3
+them 2
+these 2
+they 2
+this 1, 2, 3
+those 1, 2
+times 2
+tree 1, 2
+twice 1
+two 1
+update 2
+use 1, 2, 3
+used 2
+useful 3
+using 1, 2
+various 2
+version 2
+very 1
+were 1
+when 2
+where 1
+which 2, 3
+will 1, 2, 3
+within 2
+without 2
+words 2
+your 1, 2, 3
